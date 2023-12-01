@@ -1,7 +1,7 @@
 # 0x01. Git #
 ## Git ##
-##Code versioning##
-##Github##
+## Code versioning ##
+## Github ##
 * By: Guillaume 
 * Weight: 0
 * Ongoing second chance project - started Nov 24, 2023 6:0mAM, must end by Dec 2, 2023 6:00 AM
