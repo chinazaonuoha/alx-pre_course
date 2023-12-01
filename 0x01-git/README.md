@@ -16,13 +16,18 @@
 # Resources #
 ## Read or watch: ##
 
-[Resources to learn Git](https://intranet.alxswe.com/rltoken/EC5rb6yWBWllPB-T8rd0SQ)
-[About READMEs](https://intranet.alxswe.com/rltoken/yM5FZakIhHB2TWO1PN2PZg)
-[How to write a Git commit message](https://intranet.alxswe.com/rltoken/SihXX88mKA9TFaIebKX3Rw)
+* [Resources to learn Git](https://intranet.alxswe.com/rltoken/EC5rb6yWBWllPB-T8rd0SQ)
+
+* [About READMEs](https://intranet.alxswe.com/rltoken/yM5FZakIhHB2TWO1PN2PZg)
+
+* [How to write a Git commit message](https://intranet.alxswe.com/rltoken/SihXX88mKA9TFaIebKX3Rw)
+
 ## Resources for advanced tasks ## (Read only after finishing the mandatory tasks):
 
-[Learning branching](https://intranet.alxswe.com/rltoken/hBgLCXoQaGTcOwr_kmCoEA)
-[Effective pull requests and other good practices for teams using GitHub](https://intranet.alxswe.com/rltoken/xhKV_qX3eXvyePzeNraEGw)
+
+* [Learning branching](https://intranet.alxswe.com/rltoken/hBgLCXoQaGTcOwr_kmCoEA)
+
+* [Effective pull requests and other good practices for teams using GitHub](https://intranet.alxswe.com/rltoken/xhKV_qX3eXvyePzeNraEGw)
 
 # Learning Objectives #
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/Rfy6VuvRfNAau31z1J_b-w), without the help of Google:
